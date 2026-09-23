@@ -1,6 +1,3 @@
-[index_premium.html](https://github.com/user-attachments/files/32580298/index_premium.html)
-
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
